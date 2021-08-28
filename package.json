@@ -19,6 +19,7 @@
   "homepage": "https://github.com/meryemkarou/Node-provider#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongodb": "^4.1.1",
     "node-cron": "^2.0.3"
   }
 }
