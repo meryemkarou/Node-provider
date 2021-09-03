@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/meryemkarou/Node-provider#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "mongodb": "^4.1.1",
-    "node-cron": "^2.0.3"
+    "node-cron": "^2.0.3",
+    "twitter": "^1.7.1",
+    "twitter-api-v2": "^1.4.0"
   }
 }
